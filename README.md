@@ -1,2 +1,2 @@
 # nobot
-nobot songs
+Go to the [wiki](https://github.com/marcDeSantis/nobot/wiki)
